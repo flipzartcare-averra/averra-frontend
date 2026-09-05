@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div id="top" className="bg-surface min-h-screen">
       <Head>
-        <title>Rastaa Cabs — Outstation, local &amp; airport taxi booking</title>
+        <title>Averra Tours & Travels — Outstation, local &amp; airport taxi booking</title>
         <meta
           name="description"
           content="Book outstation, local and airport cabs with upfront, meter-clear pricing."
