@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="bg-road mt-20">
       <div className="max-w-6xl mx-auto px-5 py-10 grid sm:grid-cols-3 gap-8">
         <div>
-          <p className="font-display text-paper text-sm mb-2">Rastaa<span className="text-accent">Cabs</span></p>
+          <p className="font-display text-paper text-sm mb-2">Averra Tour & Travel<span className="text-accent">Cabs</span></p>
           <p className="font-body text-steel text-sm leading-relaxed">
             Outstation, local and airport cabs across North India. Booked
             online, confirmed by a real dispatcher.
@@ -16,10 +16,10 @@ export default function Footer() {
           <a href="#" className="hover:text-accent">
             About
           </a>
-          <a href="#" className="hover:text-accent">
+          <a href="tel:+917889247126" className="hover:text-accent">
             Driver partners
           </a>
-          <a href="#" className="hover:text-accent">
+          <a href="tel:+917889247126" className="hover:text-accent">
             Support
           </a>
         </div>
@@ -39,7 +39,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-center font-mono text-[10px] text-steel/70 pb-6">
-        © {new Date().getFullYear()} Rastaa Cabs. Demo project — not a real
+        © {new Date().getFullYear()} Averra Tour & Travel. All rights reserved.
         booking service.
       </div>
     </footer>
