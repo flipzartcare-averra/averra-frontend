@@ -7,7 +7,7 @@ export default function Header() {
             A
           </span>
           <span className="font-display font-bold text-ink text-lg tracking-tight">
-            Averra<span className="text-brand">Tours & Travels</span>
+            Averra<span className="text-brand"> Tours & Travels</span>
           </span>
         </a>
 
