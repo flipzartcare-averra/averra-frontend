@@ -4,10 +4,10 @@ export default function Header() {
       <div className="max-w-6xl mx-auto flex items-center justify-between px-5 py-3">
         <a href="#top" className="flex items-center gap-2">
           <span className="w-9 h-9 rounded-md bg-brand flex items-center justify-center font-display font-bold text-surface text-sm">
-            R
+            A
           </span>
           <span className="font-display font-bold text-ink text-lg tracking-tight">
-            Rastaa<span className="text-brand">Cabs</span>
+            Averra<span className="text-brand">Tours & Travels</span>
           </span>
         </a>
 
