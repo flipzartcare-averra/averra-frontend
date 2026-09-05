@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="bg-road mt-20">
       <div className="max-w-6xl mx-auto px-5 py-10 grid sm:grid-cols-3 gap-8">
         <div>
-          <p className="font-display text-paper text-sm mb-2">Averra<span className="text-accent">Tour & Travel</span></p>
+          <p className="font-display text-paper text-sm mb-2">Averra<span className="text-accent"> Tour & Travel</span></p>
           <p className="font-body text-steel text-sm leading-relaxed">
             Outstation, local and airport cabs across North India. Booked
             online, confirmed by a real dispatcher.
