@@ -280,7 +280,7 @@ export default function SearchWidget() {
           </button>
           {status === "success" && (
             <span className="font-body text-sm text-price-green font-medium">
-              Request received — We will confirm your cab shortly. Check Status in My Booking{" "}
+              Request received — We will confirm your cab shortly.{" "}
               <a
                 href={`/my-bookings?mobile=${encodeURIComponent(mobileNumber)}`}
                 className="text-brand underline hover:text-brand-dark"
@@ -295,7 +295,9 @@ export default function SearchWidget() {
             </span>
           )}
 
-          <div className="max-w-6xl mx-auto flex items-center justify-between px-5 py-3">
+         
+      </form>
+         <div className="max-w-6xl mx-auto flex items-center justify-between px-5 py-3">
             <button
        <a
           href="/my-bookings"
@@ -304,7 +306,6 @@ export default function SearchWidget() {
         </a>
           </button>
             </div>
-      </form>
     </div>
   );
 }
