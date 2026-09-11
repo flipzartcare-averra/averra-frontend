@@ -278,6 +278,9 @@ export default function SearchWidget() {
           >
             {status === "loading" ? "Booking…" : "Search cabs"}
           </button>
+          <a href="/my-bookings" className="hover:text-brand transition-colors">
+            My bookings
+          </a>
           {status === "success" && (
             <span className="font-body text-sm text-price-green font-medium">
               Request received — a dispatcher will confirm your cab shortly.{" "}
