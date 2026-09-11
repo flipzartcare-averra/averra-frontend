@@ -279,8 +279,8 @@ export default function SearchWidget() {
             {status === "loading" ? "Booking…" : "Search cabs"}
           </button>
           <button
-             className="bg-accent hover:bg-accent-dark disabled:opacity-60 text-white font-body text-sm font-semibold px-6 py-3 rounded-md transition-colors shadow-sm shadow-accent/30"
-          <a href="/my-bookings" className="hover:text-brand transition-colors">
+             
+          <a href="/my-bookings" className="bg-accent hover:bg-accent-dark disabled:opacity-60 text-white font-body text-sm font-semibold px-6 py-3 rounded-md transition-colors shadow-sm shadow-accent/30"
             My bookings
              </button>
           </a>
