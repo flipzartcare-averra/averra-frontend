@@ -300,9 +300,9 @@ export default function SearchWidget() {
         </div>
         <div className="md:col-span-12 flex items-center gap-4 pt-1">
           <button
-              
-          <a href="/my-bookings" className="bg-accent hover:bg-accent-dark disabled:opacity-60 text-white font-body text-sm font-semibold px-6 py-3 rounded-md transition-colors shadow-sm shadow-accent/30"</a>
+          <a href="/my-bookings" className="bg-accent hover:bg-accent-dark disabled:opacity-60 text-white font-body text-sm font-semibold px-6 py-3 rounded-md transition-colors shadow-sm shadow-accent/30"
             My bookings
+            </a>
              </button>
            </div>
       </form>
