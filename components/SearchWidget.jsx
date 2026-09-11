@@ -297,14 +297,12 @@ export default function SearchWidget() {
               {errorDetail || "Booking failed."}
             </span>
           )}
-        </div>
-        <div className="md:col-span-12 flex items-center gap-4 pt-1">
-          <button
-          <a href="/my-bookings" className="bg-accent hover:bg-accent-dark disabled:opacity-60 text-white font-body text-sm font-semibold px-6 py-3 rounded-md transition-colors shadow-sm shadow-accent/30"
-            My bookings
-            </a>
-             </button>
-           </div>
+       <a
+          href="/my-bookings"
+          className="font-body text-sm font-semibold bg-accent text-surface px-5 py-2.5 rounded-md hover:bg-accent-dark transition-colors shadow-sm shadow-accent/30"
+        >
+          Book now
+        </a>
       </form>
     </div>
   );
