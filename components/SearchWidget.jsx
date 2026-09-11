@@ -278,12 +278,9 @@ export default function SearchWidget() {
           >
             {status === "loading" ? "Booking…" : "Search cabs"}
           </button>
-
-          
-          
           {status === "success" && (
             <span className="font-body text-sm text-price-green font-medium">
-              Request received — a dispatcher will confirm your cab shortly.{" "}
+              Request received — We will confirm your cab shortly. Check Status in My Booking{" "}
               <a
                 href={`/my-bookings?mobile=${encodeURIComponent(mobileNumber)}`}
                 className="text-brand underline hover:text-brand-dark"
