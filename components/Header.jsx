@@ -37,6 +37,12 @@ export default function Header() {
         >
           Book now
         </a>
+         <a
+          href="/my-bookings"
+          className="font-body text-sm font-semibold bg-accent text-surface px-5 py-2.5 rounded-md hover:bg-accent-dark transition-colors shadow-sm shadow-accent/30"
+        >
+          Book now
+        </a>
       </div>
     </header>
   );
