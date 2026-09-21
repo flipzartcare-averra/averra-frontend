@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+    <loc>https://averratravel.vercel.app/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://averratravel.vercel.app/my-bookings</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+   <url><loc>https://averratravel.vercel.app/chandigarh-to-delhi-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-shimla-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-manali-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-amritsar-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/ludhiana-to-chandigarh-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/delhi-to-chandigarh-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-jalandhar-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-ludhiana-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-patiala-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-ambala-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-panchkula-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-mohali-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-kasauli-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-dharamshala-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-dalhousie-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-mcleodganj-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-khajjiar-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-rishikesh-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-haridwar-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-dehradun-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-mussoorie-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-jaipur-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-agra-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-amritsar-airport-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-to-delhi-airport-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-airport-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-outstation-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-local-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-one-way-taxi</loc></url>
+  <url><loc>https://averratravel.vercel.app/chandigarh-round-trip-taxi</loc>
+  <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+   
+  
+</urlset>

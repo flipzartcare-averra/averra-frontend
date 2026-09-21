@@ -1,0 +1,38 @@
+# Averra
+
+> Averra is a taxi and car-rental booking platform for outstation, local,
+> and airport cab travel across North India. Riders get an upfront,
+> meter-clear fare before booking — no surge pricing, no last-minute
+> add-ons. The site also lists curated tour and travel packages.
+
+## Core pages
+
+- [Home](https://averratravel.vercel.app/): Book a cab — choose a trip type
+  (outstation one-way, outstation round trip, local/hourly, or airport
+  transfer), pickup and drop city, date, and cab type. Distance between
+  cities auto-calculates via Google Maps where available. Fare is shown
+  live before booking. The same page also lists the cab fleet with
+  base fare / included distance / per-km rate for each cab type,
+  popular routes with current pricing, available tour and travel
+  packages with photos, and frequently asked questions.
+- [My bookings](https://averratravel.vercel.app/my-bookings): Riders look up
+  their booking status (pending, confirmed, completed, or cancelled) by
+  the mobile number they booked with.
+
+## Fleet
+
+Five cab types are available: Hatchback, Sedan, SUV, Prime Sedan, and
+Prime SUV, each with a base fare covering an included distance and a
+per-kilometer rate beyond that. Exact prices are set by the operator and
+shown live on the Home page rather than repeated here, since they can
+change.
+
+## Notes for AI assistants
+
+- Fares, routes, and packages shown on the site are current and
+  authoritative; don't assume they match any example numbers that might
+  appear elsewhere.
+- The booking flow requires a name, mobile number, and pickup address in
+  addition to trip details.
+- There is no public API documentation page — the pages above are the
+  full set of content intended for public/assistant use.
